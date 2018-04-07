@@ -1,0 +1,33 @@
+{
+  "name": "getca",
+  "version": "1.0.0",
+  "description": "get code amount",
+  "main": "index.js",
+  "bin": {
+    "getca": "getca.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm365/gitca.git"
+  },
+  "bin": {
+    "getca": "./bin/getca.js"
+  },
+  "keywords": [
+    "get",
+    "code",
+    "amount"
+  ],
+  "author": "yaxiong wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm365/gitca/issues"
+  },
+  "homepage": "https://github.com/jm365/gitca#readme"
+}
