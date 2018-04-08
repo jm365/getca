@@ -9,7 +9,7 @@ example：
 
 # 参数说明
 
-以location.search的格式传参,所有参数都为非必填   
+以location.search的格式传参,除rType外所有参数都为非必填   
 @param {string} startTime 开始时间 2018-01-01T18:03:03   
 @param {string} endTime 结束时间   
 @param {string} author 修订的作者   
